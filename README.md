@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robisc&label=Profile%20views&color=0e75b6&style=flat" alt="robisc" /> </p>
 
-- 🔭 I’m currently working on [implementing my LRP library for PyTorch](https://github.com/robisc/lrp-based-attacks)
+- 🔭 I’m currently working on [applying my LRP module to text mining and time series prediction](https://github.com/robisc/lrp-based-attacks)
 
 - ⚡ Check out my website **https://robisc.github.io/**
 

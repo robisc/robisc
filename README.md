@@ -7,8 +7,8 @@
 - 🔭 I’m currently working on:
   - [applying my LRP module to text mining and time series prediction](https://github.com/robisc/lrp-based-attacks)
   - Collaborating with the School of Cardiovascular and Metabolic Medicine and Sciences at King's College London on:
-  -   single-cell sequencing RNA data
-  -   metabolomics: <a href="https://pubmed.ncbi.nlm.nih.gov/38623713/">Serum metabolomics improves risk stratification for incident heart failure</a>
+    - single-cell sequencing RNA data
+    - metabolomics: <a href="https://pubmed.ncbi.nlm.nih.gov/38623713/">Serum metabolomics improves risk stratification for incident heart failure</a>
 
 - ⚡ Check out my website **https://robisc.github.io/**
 
